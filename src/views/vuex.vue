@@ -1,7 +1,5 @@
 <template>
-  <div class="vuex">
-    Vuex Vue
-  </div>
+  <div class="vuex">Vuex Vue</div>
 </template>
 
 <script>
@@ -10,6 +8,4 @@ export default {
 }
 </script>
 
-<style>
-
-</style>
+<style></style>

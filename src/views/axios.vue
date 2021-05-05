@@ -1,7 +1,5 @@
 <template>
-  <div class="axios">
-    Axios Vue
-  </div>
+  <div class="axios">Axios Vue</div>
 </template>
 
 <script lang="ts">

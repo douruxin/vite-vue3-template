@@ -1,7 +1,5 @@
 <template>
-  <div class="home">
-    Home Vue
-  </div>
+  <div class="home">Home Vue</div>
 </template>
 
 <script>
@@ -10,6 +8,4 @@ export default {
 }
 </script>
 
-<style lang="stylus">
-
-</style>
+<style lang="stylus"></style>
