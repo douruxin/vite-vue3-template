@@ -20,7 +20,7 @@ module.exports = {
     'import/extensions': 'off',
     'import/no-absolute-path': 'off',
     'import/no-extraneous-dependencies': 'off',
-    'vue/no-multiple-template-root': 'off',
+    'vue/no-multiple-template-root': 'off', // 去除 template 模版内的根标签验证
     'no-param-reassign': [
       'error',
       {
