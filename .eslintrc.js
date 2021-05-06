@@ -2,12 +2,14 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
+    jest: true
   },
   extends: [
     'plugin:vue/essential',
     'airbnb-base',
-    'plugin:prettier/recommended' // 添加 prettier 插件
+    'plugin:prettier/recommended', // 添加 prettier 插件
+    'plugin:jest/recommended' // 解除 ESLint 的 jest 校验
   ],
   parserOptions: {
     ecmaVersion: 12,
